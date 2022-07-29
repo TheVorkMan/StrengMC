@@ -1,2 +1,4 @@
-# StrengMC
-Mods for my server
+# Моды для STRENG.MC
+Как установить:
+Кидайте моды в папку "mods", и запускаете Forge 1.16.5
+(Если с тл, то не выбераем ForgeOptifine)
